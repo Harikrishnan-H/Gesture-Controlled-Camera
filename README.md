@@ -57,7 +57,7 @@ The script **must be run from the `yolo-uv` directory** to ensure the correct Py
 environment is used.
 
 ```bash
-cd ~/Project_Team6/yolo-uv
+cd ~/Project/yolo-uv
 
 uv run python ../script/Gesture_Controlled_Camera_Team6.py \
   --model ../model/network.rpk \
